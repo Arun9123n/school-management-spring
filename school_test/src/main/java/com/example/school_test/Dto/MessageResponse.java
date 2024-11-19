@@ -10,7 +10,7 @@ import lombok.Data;
 
 public class MessageResponse {
 
-	private int statusCode;
+	   private int statusCode;
     private Date timestamp;
     private String message;
     private String description;
